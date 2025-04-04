@@ -1,5 +1,5 @@
 # IBMCA
-## IBM Cybersecurity Analyst Professional Certificate
+## IBM Cybersecurity Analyst Professional Certificate (14 course series)
 
 The global demand for cybersecurity professionals is set to surge by 6 million (Cybercrime Magazine). This IBM Professional Certificate gives you the essential skills you need to get your first job as a cybersecurity analyst.
 
